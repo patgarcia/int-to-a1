@@ -1,7 +1,5 @@
 # int-to-a1
-Convert an integer to A1 Notation
-
-Used to translate column location to corresponding A1 name.
+Converts column position integer to correponding A1 notation letter. 1 indexed.
 
 - 1 => A
 - 26 => Z
